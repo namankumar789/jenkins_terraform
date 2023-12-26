@@ -1,0 +1,2 @@
+nameofsqs = "naman2"
+  
