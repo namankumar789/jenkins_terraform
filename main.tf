@@ -31,6 +31,7 @@ module "sqs-module" {
 
 variable "rolename1" {
   type = string
+  default = "naman"
   
 }
 
